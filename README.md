@@ -1,5 +1,7 @@
 # Flease :rocket::rocket:
-Flease is a convenient tool to speedup generating boilerplate files during development. 
+If you always have to setup boilerplate code anytime you create a new file, and you need a way to do it faster, then this package is for you.
+
+Flease is a command line tool that helps you generate files, and adds your preferred configuration. Think `Laravel artisan` in the php world; Except that this is configurable from a single `.json` file. 
 
 By default, it is designed to generate express files like `models` and `controllers` and also imports mongoose. However, it is not limited to Node js. 
 
@@ -76,3 +78,7 @@ Some upcoming features include;
 Please feel free to fork this package and contribute by submitting a pull request to enhance the functionalities.
 
 Dont forget to leave a :star: on this repo :wink:
+
+## License
+
+The MIT License (MIT). Please see [License File](LICENSE) for more information.
